@@ -13,3 +13,14 @@ aa = 'makan '
 bb = 'bang'
 print(aa + bb)
 print(aa * 5)
+
+#Assignment Statement
+spam = 42
+
+#My First Program
+print('Hello World!')
+print('What is your name? ')
+myname = input()
+print('Nice to meet you, ' + myname)
+print('The length of your name is:')
+print(len(myname))
